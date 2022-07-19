@@ -1,3 +1,6 @@
+# HTML and Javascript Projects
+### [Games](https://ap5272.github.io/Games/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ap5272/ap5272.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
