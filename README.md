@@ -1,15 +1,18 @@
 # HTML and Javascript Projects
-### [Games](https://ap5272.github.io/Games/)
+### [Games](https://github.com/ap5272/Games)
 
-## Welcome to GitHub Pages
+- [Breakout]()
+- [Connect4]()
+- [Frogger]()
+- [Memory]()
+- [Rock-Paper-Scissors]()
+- [Space Invaders]()
+- [Whac-a-Mole]()
+- [Snake]()
 
-You can use the [editor on GitHub](https://github.com/ap5272/ap5272.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
