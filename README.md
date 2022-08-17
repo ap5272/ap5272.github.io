@@ -1,3 +1,3 @@
-Built using ![Awesome Portfolio Website](./readme_assets/banner_apw.png)
+Built using ![Awesome Portfolio Website]((https://github.com/smaranjitghose/awesome-portfolio-websites))
 
 
